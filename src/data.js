@@ -1,22 +1,22 @@
 const report = [
   {
     id: 1,
-    name: "Ankit",
+    name: "Virat",
     score: 80
   },
   {
     id: 2,
-    name: "Rahul",
+    name: "Sachin",
     score: 70
   },
   {
     id: 3,
-    name: "Nandan",
+    name: "Rohit",
     score: 30
   },
   {
     id: 4,
-    name: "Sejal",
+    name: "Rahul",
     score: 20
   }
 ];
